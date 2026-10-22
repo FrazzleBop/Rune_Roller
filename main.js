@@ -7,7 +7,7 @@ const RUNE_KEY = `${ID}/isRune`;      // item metadata: marks an item as a rune
 const HOLD_KEY = `${ID}/holding`;     // player metadata: id of the rune being held
 const ROLL_CHANNEL = `${ID}/roll`;
 const TOOL_ID = `${ID}/tool`;
-const REQUIRED_PLAYERS = 5;
+const REQUIRED_PLAYERS = 1;
 
 console.log("[Rune Roller] main.js loaded, SDK imported");
 
