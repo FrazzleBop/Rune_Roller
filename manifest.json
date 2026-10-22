@@ -3,5 +3,5 @@
   "version": "1.0.0",
   "manifest_version": 1,
   "description": "When 5 players hold left click on the same rune, a d20 is rolled.",
-  "background_url": "index.html"
+  "background_url": "https://frazzlebop.github.io/REPO/index.html"
 }
